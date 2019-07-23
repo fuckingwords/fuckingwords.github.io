@@ -19,7 +19,8 @@ body {
 	overflow-y: scroll;
 }
 .wrap {
-	margin: 3em auto;
+	margin: 0 auto;
+	padding: 1em 0 3em;
 	width: 960px;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -50,7 +51,6 @@ h2 span {
 	page-break-after: always;
 }
 .inside {
-	padding: 1em 0;
 }
 .inside table td {
 	border: 1px solid #2d2d2d;
