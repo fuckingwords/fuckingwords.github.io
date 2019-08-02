@@ -50,7 +50,6 @@ h3 {
 }
 .loc {
 	page-break-after: always;
-	font-size: 1.25em;
 }
 .loc ol {
 	line-height: 2;
@@ -59,6 +58,7 @@ h3 {
 	font-weight: 700;
 }
 .inside {
+	font-size: 1.25em;
 }
 .inside table td {
 	border: 1px solid #2d2d2d;
