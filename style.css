@@ -37,18 +37,26 @@ h2 {
 	font-size: 3em;
 	font-weight: 700;
 	text-align: center;
-	padding: 1em 0;
+	padding: .75em 0;
+	line-height: 1.5;
+}
+h2 span {
+	border-bottom: .15em solid #2d2d2d;
 }
 h3 {
 	font-size: 1.5em;
 	font-weight: 700;
 	text-align: center;
 }
-h2 span {
-	border-bottom: .15em solid #2d2d2d;
-}
 .loc {
 	page-break-after: always;
+	font-size: 1.25em;
+}
+.loc ol {
+	line-height: 2;
+}
+.loc strong {
+	font-weight: 700;
 }
 .inside {
 }
@@ -64,11 +72,9 @@ h2 span {
 #transitions p {
 	line-height: 1.5;
 	padding: .5em 0;
-	font-size: 1.25em;
 }
 #emotions table {
 	float: left;
-	font-size: 1.25em;
 	width: 45%;
 	margin: 0 2.5% 1em;
 }
@@ -80,14 +86,22 @@ h2 span {
 .title-cell {
 	font-weight: 700;
 }
+.list-style table {
+	margin: 0 auto;
+}
+.list-style td:nth-child(1) {
+	font-weight: 700;
+	text-align: center;
+}
+.list-style td:nth-child(2) {
+	font-weight: 700;
+	text-align: center;
+}
+.list-style td:nth-child(3) {
+}
 #resources ol {
 	list-style-type: decimal;
-	line-height: 2;
-	font-size: 1.25em;
 	margin-left: 3em;
-}
-#resources strong {
-	font-weight: 700;
 }
 
 
