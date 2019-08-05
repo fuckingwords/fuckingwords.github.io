@@ -67,7 +67,7 @@ h3 {
 }
 .col-3 {
 	column-count: 3;
-	column-gap: 4em;
+	column-gap: 3em;
 	column-rule: 1px solid #2d2d2d;
 }
 .col-3 p {
@@ -77,15 +77,26 @@ h3 {
 	page-break-inside: avoid;
 	break-inside: avoid;
 }
-#emotions table {
-	float: left;
-	width: 45%;
-	margin: 0 2.5% 1em;
+#inside-emotions {
+	column-count: 2;
+	column-gap: 1.5em;
+	margin-bottom: -1.5em;
+}
+#inside-emotions table {
+	width: 100%;
+	margin-bottom: 1.5em;
+	-webkit-column-break-inside: avoid;
+	page-break-inside: avoid;
+	break-inside: avoid;
 }
 #emotions td {
 	vertical-align: middle;
 	text-align: center;
 	text-transform: uppercase;
+	width: 38%;
+}
+#emotions td:first-child {
+	width: 24%;
 }
 .title-cell {
 	font-weight: 700;
