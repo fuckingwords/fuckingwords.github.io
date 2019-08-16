@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-16T22:56:53+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Online Real Estate</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Write A New Article</title><link href="http://localhost:4000/writer/write-new-article" rel="alternate" type="text/html" title="Write A New Article" /><published>2019-08-16T00:00:00+08:00</published><updated>2019-08-16T00:00:00+08:00</updated><id>http://localhost:4000/writer/write-new-article</id><content type="html" xml:base="http://localhost:4000/writer/write-new-article">&lt;ol&gt;
+  &lt;li&gt;dfdsfd&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident rerum quae ea deserunt sequi velit impedit, blanditiis suscipit quidem iusto voluptas facilis labore quas praesentium quaerat laborum, modi ut. Dolores.&lt;/p&gt;</content><author><name></name></author><category term="writer" /><summary type="html">dfdsfd</summary></entry><entry><title type="html">Setup Pinterest Account</title><link href="http://localhost:4000/pinterest/setup-pinterest" rel="alternate" type="text/html" title="Setup Pinterest Account" /><published>2019-08-16T00:00:00+08:00</published><updated>2019-08-16T00:00:00+08:00</updated><id>http://localhost:4000/pinterest/setup-pinterest</id><content type="html" xml:base="http://localhost:4000/pinterest/setup-pinterest">&lt;blockquote&gt;
+  &lt;p&gt;The following are steps to create a Pinterest Business account and how to setup the account.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;account-creation&quot;&gt;Account Creation&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://www.pinterest.com/business/create&quot;&gt;https://www.pinterest.com/business/create&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Go through the sign up process.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ALWAYS&lt;/strong&gt; select United States.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;account-setup&quot;&gt;Account Setup&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Change your name and Pinterest URL. (If necessary)&lt;/li&gt;
+  &lt;li&gt;Start with 3 boards that represent your niche.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="pinterest" /><summary type="html">The following are steps to create a Pinterest Business account and how to setup the account.</summary></entry><entry><title type="html">Check Pins</title><link href="http://localhost:4000/pinterest/check-pins" rel="alternate" type="text/html" title="Check Pins" /><published>2019-08-16T00:00:00+08:00</published><updated>2019-08-16T00:00:00+08:00</updated><id>http://localhost:4000/pinterest/check-pins</id><content type="html" xml:base="http://localhost:4000/pinterest/check-pins"></content><author><name></name></author><category term="pinterest" /><summary type="html"></summary></entry><entry><title type="html">Save Pins</title><link href="http://localhost:4000/pinterest/save-pins" rel="alternate" type="text/html" title="Save Pins" /><published>2019-08-16T00:00:00+08:00</published><updated>2019-08-16T00:00:00+08:00</updated><id>http://localhost:4000/pinterest/save-pins</id><content type="html" xml:base="http://localhost:4000/pinterest/save-pins">&lt;ol&gt;
+  &lt;li&gt;Check the &lt;a href=&quot;https://www.facebook.com/groups/2360621400658492/&quot;&gt;Online Real Estate&lt;/a&gt; group page on Facebook for the latest pins to save.&lt;/li&gt;
+  &lt;li&gt;Save 1-3 pins from the group. (For each Pinterest account)&lt;/li&gt;
+  &lt;li&gt;Save pins from Pinterest for your own boards.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;remember&quot;&gt;Remember&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Minimum&lt;/strong&gt; 10 pins a day. (Total Per Account)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Maximum&lt;/strong&gt; 30 pins a day. (Total Per Account)&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="pinterest" /><summary type="html">Check the Online Real Estate group page on Facebook for the latest pins to save. Save 1-3 pins from the group. (For each Pinterest account) Save pins from Pinterest for your own boards.</summary></entry><entry><title type="html">Tester</title><link href="http://localhost:4000/developer/tester" rel="alternate" type="text/html" title="Tester" /><published>2000-01-01T00:00:00+08:00</published><updated>2000-01-01T00:00:00+08:00</updated><id>http://localhost:4000/developer/tester</id><content type="html" xml:base="http://localhost:4000/developer/tester">&lt;p&gt;&lt;strong&gt;Paragraph&lt;/strong&gt;. &lt;em&gt;Lorem ipsum&lt;/em&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;dolor&lt;/code&gt; &lt;u&gt;sit amet&lt;/u&gt;, &lt;a href=&quot;https://google.com/&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Quas vitae aliquid labore laboriosam similique, distinctio. Alias vel autem illum modi, ex. Officia consequatur fuga mollitia quae labore, dignissimos ratione dicta.&lt;/p&gt;
+
+&lt;h2 id=&quot;header-2&quot;&gt;Header 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;header-4&quot;&gt;Header 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;header-5&quot;&gt;Header 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;header-6&quot;&gt;Header 6&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;This is an ordered&lt;/li&gt;
+  &lt;li&gt;List of&lt;/li&gt;
+  &lt;li&gt;Three item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This is an ordered&lt;/li&gt;
+  &lt;li&gt;List of&lt;/li&gt;
+  &lt;li&gt;Three items&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;main-container&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;content&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;This is Header 1&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We buy things we don’t need with money, we don’t have to impress people we don’t like.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/img/tester.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Enrique&lt;/th&gt;
+      &lt;th&gt;de&lt;/th&gt;
+      &lt;th&gt;Larrazabal&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3231&lt;/td&gt;
+      &lt;td&gt;frew&lt;/td&gt;
+      &lt;td&gt;232312&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3322&lt;/td&gt;
+      &lt;td&gt;4tg44&lt;/td&gt;
+      &lt;td&gt;fgdg&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;dfds&lt;/td&gt;
+      &lt;td&gt;dfvd&lt;/td&gt;
+      &lt;td&gt;dfbbd&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="developer" /><summary type="html">Paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas vitae aliquid labore laboriosam similique, distinctio. Alias vel autem illum modi, ex. Officia consequatur fuga mollitia quae labore, dignissimos ratione dicta.</summary></entry></feed>
